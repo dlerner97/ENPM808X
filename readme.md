@@ -25,5 +25,5 @@ mkdir build
 cd build
 cmake ..
 make
-Run program: ./app/shell-app
+Run program: ./SoftwareEngineering_9_4/Q9_4-app
 ```

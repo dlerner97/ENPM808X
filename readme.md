@@ -16,7 +16,7 @@ with SSH OR
 git clone https://github.com/dlerner97/ENPM808X.git
 ```
 
-with HTTPS. Either way, after the repo has been downloaded, add the vendor folder to ENPM808X. Then,
+with HTTPS. Either way, after the repo has been downloaded,return to terminal and type,
 
 ```bash
 cd ENPM808X

@@ -1,8 +1,7 @@
-#include <iostream>
-#include <lib.hpp>
+#include "../SoftwareEngineering_9_4/question_9_4.cpp"
 
 int main()
 {
-    dummy();
+    printPosition();
     return 0;
 }

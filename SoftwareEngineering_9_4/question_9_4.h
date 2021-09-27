@@ -1,4 +1,6 @@
 // Copyright [2021] Dani Lerner
+
+#pragma once
 #include <iostream>
 
 using std::cout;

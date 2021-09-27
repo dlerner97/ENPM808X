@@ -1,0 +1,13 @@
+
+ENPM808X git:(DaniLerner_week4) ✗ cpplint ./SoftwareEngineering_9_4/* 
+Ignoring ./SoftwareEngineering_9_4/CMakeLists.txt; not a valid file name (h, cuh, c++, cu, h++, hpp, hh, cxx, cpp, cc, hxx, c)
+Done processing ./SoftwareEngineering_9_4/CMakeLists.txt
+Ignoring ./SoftwareEngineering_9_4/hw_week4-Q 9-4.pdf; not a valid file name (h, cuh, c++, cu, h++, hpp, hh, cxx, cpp, cc, hxx, c)
+Done processing ./SoftwareEngineering_9_4/hw_week4-Q 9-4.pdf
+Done processing ./SoftwareEngineering_9_4/main.cpp
+Done processing ./SoftwareEngineering_9_4/question_9_4.h
+Ignoring ./SoftwareEngineering_9_4/results.txt; not a valid file name (h, cuh, c++, cu, h++, hpp, hh, cxx, cpp, cc, hxx, c)
+Done processing ./SoftwareEngineering_9_4/results.txt
+
+SoftwareEngineering_9_4 git:(DaniLerner_week4) ✗ cppcheck --enable=all --std=c++11 --suppress=missingIncludeSystem $( find . -name *.cpp | grep -vE -e "^./build/" -e "^./vendor/" ) 
+Checking main.cpp ...
